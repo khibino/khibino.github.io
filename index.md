@@ -5,6 +5,7 @@ Kei Hibino - index
 
 I am [Haskell Programmer](http://www.haskellers.com/user/khibino)
 
+[Hackages](http://hackage.haskell.org/user/KeiHibino "Kei Hibino's Hackages")
 [Bitbucket](http://bitbucket.org/khibino/ "Kei Hibino's BitBucket")
 [Twitter](http://twitter.com/khibino/ "Kei Hibino's Twitter")
 [GitHub](http://github.com/khibino/ "Kei Hibino's GitHub")
