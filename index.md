@@ -12,3 +12,5 @@ I am [Haskell Programmer](http://www.haskellers.com/user/khibino)
 [Blog (ja)](http://khibino.hatenadiary.jp/)
 [Debian Packages](http://qa.debian.org/developer.php?login=ex8k.hibino%40gmail.com)
 [Hatena](http://profile.hatena.ne.jp/khibino0/)
+
+E-mail: ex8k.hibino at gmail.com
