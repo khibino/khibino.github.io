@@ -10,6 +10,7 @@ I am [Haskell Programmer](http://www.haskellers.com/user/khibino)
 [Twitter](http://twitter.com/khibino/ "Kei Hibino's Twitter")
 [GitHub](http://github.com/khibino/ "Kei Hibino's GitHub")
 [Blog (ja)](http://khibino.hatenadiary.jp/)
+[Hackages](http://hackage.haskell.org/user/KeiHibino)
 [Debian Packages](http://qa.debian.org/developer.php?login=ex8k.hibino%40gmail.com)
 [Hatena](http://profile.hatena.ne.jp/khibino0/)
 
