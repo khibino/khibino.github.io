@@ -1,7 +1,8 @@
 Kei Hibino - index
 =====
 
-[Haskell Relational Record Project Page](http://khibino.github.io/haskell-relational-record/ "Haskell Relational Record Project Page")
+* [dnsext](http://github.com/khibino/dnsext) (DNS library, full-resolver and tools, experimental implementation)
+* [Haskell Relational Record Project Page](http://khibino.github.io/haskell-relational-record/ "Haskell Relational Record Project Page")
 
 I am [Haskell Programmer](http://www.haskellers.com/user/khibino)
 
