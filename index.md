@@ -12,7 +12,7 @@ I am [Haskell Programmer](http://www.haskellers.com/user/khibino)
 [Blog (ja)](http://khibino.hatenadiary.jp/)
 [Bitbucket](http://bitbucket.org/khibino/ "Kei Hibino's BitBucket")
 [Debian Packages](http://qa.debian.org/developer.php?login=ex8k.hibino%40gmail.com)
-Debian Bug Reports [1](https://bugs.debian.org/cgi-bin/pkgreport.cgi?archive=both;submitter=ex8k-hbn%40asahi-net.or.jp) [2](https://bugs.debian.org/cgi-bin/pkgreport.cgi?archive=both;submitter=ex8k.hibino@gmail.com)
+Debian Bug Reports [1](https://bugs.debian.org/cgi-bin/pkgreport.cgi?archive=both;submitter=ex8k.hibino@gmail.com) [2](https://bugs.debian.org/cgi-bin/pkgreport.cgi?archive=both;submitter=ex8k-hbn%40asahi-net.or.jp)
 [Hatena](http://profile.hatena.ne.jp/khibino0/)
 
 E-mail: ex8k.hibino at gmail.com
