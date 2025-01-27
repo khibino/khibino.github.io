@@ -8,6 +8,8 @@ I am [Haskell Programmer](http://www.haskellers.com/user/khibino)
 
 [Hackages](http://hackage.haskell.org/user/KeiHibino "Kei Hibino's Hackages")
 [GitHub](http://github.com/khibino/ "Kei Hibino's GitHub")
+CMAC-impl [pre](https://github.com/haskell-crypto/cryptonite/issues/74) [PR](https://github.com/haskell-crypto/cryptonite/pull/75) [Module](https://hackage.haskell.org/package/crypton-1.0.1/docs/Crypto-MAC-CMAC.html)
+MiyaguchiPreneel-impl [PR](https://github.com/haskell-crypto/cryptonite/pull/77) [Module](https://hackage.haskell.org/package/crypton-1.0.1/docs/Crypto-ConstructHash-MiyaguchiPreneel.html)
 [Twitter](http://twitter.com/khibino/ "Kei Hibino's Twitter")
 [Blog (ja)](http://khibino.hatenadiary.jp/)
 [Bitbucket](http://bitbucket.org/khibino/ "Kei Hibino's BitBucket")
